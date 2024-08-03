@@ -12,3 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Sistema de registro</h1>
 - Estado del proyecto: En construccion.
+
+Para ejecutar el sistema,debes poner:
+
+```npm install react````
+
+
+
